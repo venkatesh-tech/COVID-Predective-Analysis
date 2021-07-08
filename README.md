@@ -5,7 +5,6 @@ During these tough times safety is the utmost importance of the students and tea
 
 ## Description
 - This Machine Learning model predicts whether the students to attend online or offline classes by collecting data from an API that is    hosted in a static website made with Reactjs. The data is given in the form of a pie chart which is a pictorial representation of data.
-- This machine learning model is powered by Lobe. Lobe is a highly specialized platform for Machine Learning projects that users can teach their model how to work based on image classification. Lobe has everything you need to bring your machine learning ideas to life.
 
 ## Purpose behind this Project
 We have done this project as part of HACK THE MOUNTAINS 2.O Hackathon.
